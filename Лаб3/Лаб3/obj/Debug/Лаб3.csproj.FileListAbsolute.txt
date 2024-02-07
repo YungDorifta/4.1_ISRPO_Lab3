@@ -1,0 +1,158 @@
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Лаб3.dll.config
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Лаб3.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Лаб3.pdb
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csc.exe
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csc.exe.config
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csc.rsp
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csi.exe
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csi.exe.config
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\csi.rsp
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.AppContext.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Collections.Immutable.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Console.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Compression.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.FileSystem.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Pipes.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Reflection.Metadata.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.AccessControl.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Claims.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.ValueTuple.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XPath.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.exe
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.exe.config
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.rsp
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\VBCSCompiler.exe
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\roslyn\VBCSCompiler.exe.config
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Microsoft.Web.Infrastructure.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Helpers.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Mvc.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Razor.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Deployment.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Razor.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Razor.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Deployment.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Razor.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Helpers.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\System.Web.Mvc.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Razor.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.Deployment.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.Razor.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Helpers.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Mvc.resources.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csprojAssemblyReference.cache
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CoreCompileInputs.cache
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CopyComplete
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.dll
+H:\ИСРПО\!Лабы\Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.pdb
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Лаб3.dll.config
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Лаб3.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Лаб3.pdb
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csc.exe
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csc.exe.config
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csc.rsp
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csi.exe
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csi.exe.config
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\csi.rsp
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.AppContext.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Collections.Immutable.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Console.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Compression.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.FileSystem.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.IO.Pipes.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Reflection.Metadata.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.AccessControl.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Claims.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Security.Principal.Windows.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.ValueTuple.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XPath.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.exe
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.exe.config
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\vbc.rsp
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\VBCSCompiler.exe
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\roslyn\VBCSCompiler.exe.config
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Microsoft.Web.Infrastructure.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Common.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Common.WebHost.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Mvc.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Helpers.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Mvc.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Razor.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Deployment.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Razor.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Common.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Common.WebHost.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Ninject.Web.Mvc.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Razor.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Deployment.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Webpages.Razor.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Helpers.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\System.Web.Mvc.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Razor.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Helpers.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\bin\ru\System.Web.Mvc.resources.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csprojAssemblyReference.cache
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CoreCompileInputs.cache
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CopyComplete
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.dll
+E:\College\4th_course\ИСРПО\Выполненные лабы\-Лаб3\Лаб3\Лаб3\obj\Debug\Лаб3.pdb
